@@ -5,7 +5,9 @@
 * Subject :  Numeric. The participant (from 1 to 30)
 * Activity :  Factor w/ 6 levels. The label of the activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
-##EXTRACTED FEATURE FIELDS, in columns:
+##EXTRACTED FEATURE FIELDS
+
+In columns:
 1. tBodyAcc-mean()-X
 2. tBodyAcc-mean()-Y
 3. tBodyAcc-mean()-Z
@@ -87,7 +89,7 @@
 
 ##Activity labels (activity_labels)
 1. WALKING
-2 .WALKING_UPSTAIRS
+2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
 4. SITTING
 5. STANDING
