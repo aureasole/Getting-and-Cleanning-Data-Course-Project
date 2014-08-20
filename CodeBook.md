@@ -6,11 +6,11 @@ Every extracted feature of the tidy data correspond at the average of measuramen
 
 ##CODE BOOK
 
-###ID FIELDS
+###ID fields
 * Subject :  Numeric. The participant (from 1 to 30)
 * Activity :  Factor w/ 6 levels. The label of the activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
-###EXTRACTED FEATURE FIELDS
+###Extracted feature fields
 
 In columns:
 
