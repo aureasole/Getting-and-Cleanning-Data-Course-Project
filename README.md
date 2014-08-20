@@ -3,8 +3,8 @@ Getting and Cleanning Data Course Project
 ##Clean dataset
 The resulting clean dataset contains:
 
-.*one row for each combination of subject and activity pair 
-.*columns for subject, activity, and each feature (means and standard deviations from the original dataset created)
+* One row for each combination of subject and activity pair 
+* Columns for subject, activity, and each feature (means and standard deviations from the original dataset created)
 
 
 ##Script
