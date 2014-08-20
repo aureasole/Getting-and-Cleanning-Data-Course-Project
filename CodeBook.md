@@ -7,6 +7,7 @@
 ##EXTRACTED FEATURE FIELDS
 
 In columns:
+
 1. tBodyAcc-mean()-X
 2. tBodyAcc-mean()-Y
 3. tBodyAcc-mean()-Z
