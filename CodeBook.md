@@ -1,6 +1,5 @@
 #Code Book
 ========================================================
-
 ##ID FIELDS
 * Subject :  Numeric. The participant (from 1 to 30)
 * Activity :  Factor w/ 6 levels. The label of the activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
