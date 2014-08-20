@@ -1,10 +1,16 @@
 #Code Book
 ========================================================
-##ID FIELDS
+##STUDY DESIGN
+
+Every extracted feature of the tidy data correspond at the average of measuraments of the specific activity realised by the specific subject. This data exists, and it’s role in the ReadMe.
+
+##CODE BOOK
+
+###ID FIELDS
 * Subject :  Numeric. The participant (from 1 to 30)
 * Activity :  Factor w/ 6 levels. The label of the activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
-##EXTRACTED FEATURE FIELDS
+###EXTRACTED FEATURE FIELDS
 
 In columns:
 
@@ -87,7 +93,7 @@ In columns:
 78. fBodyBodyGyroMag-std()
 79. fBodyBodyGyroJerkMag-std() 
 
-##Activity labels (activity_labels)
+####Activity labels (activity_labels)
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
@@ -95,6 +101,4 @@ In columns:
 5. STANDING
 6. LAYING
 
-##STUDY DESIGN
-Every extracted feature of the tidy data correspond at the average of measuraments of the specific activity realised by the specific subject. This data exists, and it’s role in the ReadMe.
 
