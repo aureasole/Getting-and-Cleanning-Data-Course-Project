@@ -7,6 +7,7 @@ Every extracted feature of the tidy data correspond at the average of measuramen
 ##CODE BOOK
 
 ###ID fields
+
 * Subject :  Numeric. The participant (from 1 to 30)
 * Activity :  Factor w/ 6 levels. The label of the activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
@@ -67,7 +68,7 @@ In columns:
 52. tGravityAcc-std()-Z
 53. tBodyAccJerk-std()-X
 54. tBodyAccJerk-std()-Y
-55. BodyAccJerk-std()-Z
+55. tBodyAccJerk-std()-Z
 56. tBodyGyro-std()-X
 57. tBodyGyro-std()-Y
 58. tBodyGyro-std()-Z
@@ -92,6 +93,10 @@ In columns:
 77. fBodyBodyAccJerkMag-std()
 78. fBodyBodyGyroMag-std()
 79. fBodyBodyGyroJerkMag-std() 
+
+BodyAcc measuraments are in standard gravity units 'g'.
+BodyGyro measuraments are in radiants/second
+GravityAcc measuraments are in standard gravity units 'g'.
 
 ####Activity labels (activity_labels)
 1. WALKING
